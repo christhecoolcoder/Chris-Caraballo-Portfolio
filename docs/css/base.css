@@ -523,6 +523,11 @@ textarea {
     width: 100%;
 }
 
+.about-me {
+    color: white;
+    -webkit-text-stroke: .5px black;
+}
+
 
 /* ------------------------------------------------------------------- 
  * ## medium size devices
